@@ -1,0 +1,38 @@
+part 1
+
+intro
+maths is so annoying but when we see its application its very intersting
+how is it used in games
+lets see in an example
+
+images
+https://marshalltrap.deviantart.com/art/angry-math-teacher-203321393
+
+problem
+
+Part 2
+
+explain exponential growth
+maths function what
+i am growin exponentially
+
+how would we go about making it
+rise my zombies
+
+before we start lets see
+the undead vaiables
+
+show very normal implementation without alot of maths (constant)
+Enough with the boring stuff
+
+implement linear growth explaining all the variables
+Growing Linear
+Coding it (Linear)
+
+show linear growth running (visuallization)
+Watching it work (Linear)
+
+implement exponential growth
+show ex growth running (visuallization)
+
+conclusion
